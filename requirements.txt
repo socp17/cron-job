@@ -1,0 +1,5 @@
+yahoo_ff
+pandas
+numpy
+sqlite3
+pprint
